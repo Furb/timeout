@@ -13,6 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Camp</h1>
+        <h2>Testing changes</h2>
 
         <p className={styles.description}>
           Get started by editing{" "}
